@@ -1,5 +1,5 @@
 (function () {
-  API_URL "https://script.google.com/macros/s/AKfycbxUyxZ1wMOqrZL84yNoA-4w2ynCJpKUniYlb2ijW76eAZj3sUTVzxsUF9tyfe_KuyLwsw/exec";
+  const API_URL = "https://script.google.com/macros/s/AKfycbxUyxZ1wMOqrZL84yNoA-4w2ynCJpKUniYlb2ijW76eAZj3sUTVzxsUF9tyfe_KuyLwsw/exec";
   const API_ORGANIZATIONS_URL = `${API_URL}?sheet=DANHSACHCOQUAN`;
   const DATABASE_NAME = "TemplateStorage";
   const STORE_NAME = "files";
